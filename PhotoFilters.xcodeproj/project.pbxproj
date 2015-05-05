@@ -13,6 +13,7 @@
 		29E532CC1AF85064003DF436 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29E532CB1AF85064003DF436 /* Images.xcassets */; };
 		29E532CF1AF85064003DF436 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 29E532CD1AF85064003DF436 /* LaunchScreen.xib */; };
 		29E532DB1AF85064003DF436 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29E532DA1AF85064003DF436 /* PhotoFiltersTests.swift */; };
+		29E532E51AF850C5003DF436 /* lion.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 29E532E41AF850C5003DF436 /* lion.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		29E532D41AF85064003DF436 /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		29E532D91AF85064003DF436 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		29E532DA1AF85064003DF436 /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		29E532E41AF850C5003DF436 /* lion.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lion.jpeg; path = ../../../../Desktop/lion.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		29E532C11AF85064003DF436 /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				29E532E41AF850C5003DF436 /* lion.jpeg */,
 				29E532C41AF85064003DF436 /* AppDelegate.swift */,
 				29E532C61AF85064003DF436 /* ViewController.swift */,
 				29E532C81AF85064003DF436 /* Main.storyboard */,
@@ -195,6 +198,7 @@
 				29E532CA1AF85064003DF436 /* Main.storyboard in Resources */,
 				29E532CF1AF85064003DF436 /* LaunchScreen.xib in Resources */,
 				29E532CC1AF85064003DF436 /* Images.xcassets in Resources */,
+				29E532E51AF850C5003DF436 /* lion.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
